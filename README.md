@@ -26,7 +26,7 @@ This project demonstrates **CRUD operations (Create, Read, Update, Delete)** usi
 ## 📂 Project Structure
 
 ```
-node-mongo-api/
+API/
 │
 ├── server.js             # Main entry point
 ├── seed.js               # Seeder script for dummy users
