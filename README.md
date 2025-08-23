@@ -54,7 +54,7 @@ API/
 
    ```bash
    git clone https://github.com/mustaque01/API.git
-   cd node-mongo-api
+   cd api
    ```
 
 2. Install dependencies:
